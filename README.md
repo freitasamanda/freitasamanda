@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @manduniverso
-- 👀 I’m interested in data analytics for social and political sciences
-- 🌱 I’m currently learning R and Python programming, social network analysis, statistics and machine learning for data analytics
-- 💞️ I’m looking forward to collaborate on any sort of project that helps me learn how to collect, clean, explore and analyse data, specially related to social and political issues
-- 📫 Reach me at freitas.com6@gmail.com
+- I have a BA in Social Sciences at UNIFESP (Federal University of São Paulo)
+- I am currently studying MA in Political Science at USP (University of São Paulo
+- My main research interests are: social network analysis, data analytics for political scientists, social media influence in elections, political polarization, disinformation, social media usage by the far-right, populism, political communication
+- 📫 Reach me at freitas.amanda@usp.br
 
 <!---
 manduniverso/manduniverso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

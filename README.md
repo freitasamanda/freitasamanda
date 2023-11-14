@@ -1,8 +1,10 @@
 ## 👋 Olá, eu sou Amanda Freitas
 Cientista Social, Mestranda em Ciência Política (USP).
+Faço pesquisas no campo de Internet & Política, coletando e analisando dados de redes sociais com as linguagens R e Python.
+Entusiasta da área de ciência de dados, buscando aprimorar meus conhecimentos em Python.
 
-- [Currículo Lattes](http://lattes.cnpq.br/1148124654034566)
-- [Página no Departamento de Ciência Política DCP - USP](https://dcp.fflch.usp.br/amanda-freitas-carnaiba)
+- [Meu Currículo Lattes](http://lattes.cnpq.br/1148124654034566)
+- [Minha página no Departamento de Ciência Política DCP - USP](https://dcp.fflch.usp.br/amanda-freitas-carnaiba)
 
 
 ## Contatos

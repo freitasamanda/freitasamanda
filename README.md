@@ -1,7 +1,8 @@
 ## 👋 Olá, eu sou Amanda Freitas
-Cientista Social, Mestranda em Ciência Política (USP).
-Faço pesquisas na área de Internet & Política, coletando e analisando dados de redes sociais com as linguagens R e Python.
-Entusiasta da área de ciência de dados, buscando aprimorar meus conhecimentos em Python e análise de dados.
+Cientista Social, Mestre em Ciência Política (USP) e Google Generative AI Leader certified.
+Trabalho como Analista de Inteligência de Mercado na Quaest.
+Desenvolvo pesquisas na área de Internet & Política desde 2018, coletando e analisando dados de redes sociais com as linguagens R e Python.
+Entusiaste de Ciência de Dados.
 
 - [Meu Currículo Lattes](http://lattes.cnpq.br/1148124654034566)
 - [Minha página no Departamento de Ciência Política DCP - USP](https://dcp.fflch.usp.br/amanda-freitas-carnaiba)

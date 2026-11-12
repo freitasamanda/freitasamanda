@@ -2,7 +2,7 @@
 Cientista Social, Mestre em Ciência Política (USP) e Google Generative AI Leader certified.
 Trabalho como Analista de Inteligência de Mercado na Quaest.
 Desenvolvo pesquisas na área de Internet & Política desde 2018, coletando e analisando dados de redes sociais com as linguagens R e Python.
-Entusiaste de Ciência de Dados.
+Entusiasta de Ciência de Dados.
 
 ## 👋 Hello, I am Amanda Freitas
 Social Scientist with a Master's Degree in Political Science (USP) and Google Generative AI Leader certified.

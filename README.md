@@ -16,13 +16,13 @@ Data Science enthusiast.
 ## Contatos/Contacts
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:freitas.amanda@usp.br)[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mandyfreitas19/)[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/freitas-amanda/)[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://freitasamanda.github.io)
 ---
-## Projetos favoritos / Featured projects
+## Projetos de que mais me orgulho / Projects I'm proud of
 
 | Projeto / Project | Descrição / Description | Tecnologias / Technologies |
 |---|---|---|
 | [Data Science Portfolio](https://github.com/freitasamanda/data_science_portfolio) | Projetos e estudos de Ciência de Dados / Data science projects and studies | Jupyter Notebook |
 | [European Social Survey Analysis](https://github.com/freitasamanda/European_Social_Survey_Analysis) | Análise de dados sobre democracia e valores políticos / Analysis of democracy and political values | R |
-| [Bibliographic Analysis](https://github.com/freitasamanda/bibliographic_analysis) | Análise de dados bibliográficos / Bibliographic data analysis | R |
+| [LoL Tilt Detector]([https://github.com/freitasamanda/bibliographic_analysis) | Detector de tilts no League of Legends com LightGBM e engenharia de atributos / League of Legends tilt detector with LightGBM and feature engineering | Python |
 
 ## Linguagens mais usadas / Most used languages
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)

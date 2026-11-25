@@ -20,8 +20,7 @@ Data Science enthusiast.
 
 | Projeto / Project | Descrição / Description | Tecnologias / Technologies |
 |---|---|---|
-| [Data Science Portfolio](https://github.com/freitasamanda/data_science_portfolio) | Projetos e estudos de Ciência de Dados / Data science projects and studies | Jupyter Notebook |
-| [European Social Survey Analysis](https://github.com/freitasamanda/European_Social_Survey_Analysis) | Análise de dados sobre democracia e valores políticos / Analysis of democracy and political values | R |
+| [Student Grade Prediction](https://github.com/freitasamanda/students_grades_random_forest_project) | Análise de desempenho acadêmico e segmentação de estudantes com Random Forest e K-Means. | Jupyter Notebook |
 | [LoL Tilt Detector](https://github.com/freitasamanda/bibliographic_analysis) | Detector de tilts no League of Legends com LightGBM e engenharia de atributos / League of Legends tilt detector with LightGBM and feature engineering | Python |
 
 ## Linguagens mais usadas / Most used languages
